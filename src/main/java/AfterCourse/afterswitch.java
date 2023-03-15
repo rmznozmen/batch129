@@ -1,7 +1,5 @@
 package AfterCourse;
 
-import day09incrementdecrementternaryswitch.Switch01;
-
 import java.util.Scanner;
 
 public class afterswitch {
